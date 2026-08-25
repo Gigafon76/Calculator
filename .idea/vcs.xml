@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Interviews-of-Android-Developer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Jetpack-Compose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KinoPoisk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyChat" vcs="Git" />
+  </component>
+</project>
