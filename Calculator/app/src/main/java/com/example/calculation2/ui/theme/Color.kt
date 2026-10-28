@@ -1,0 +1,25 @@
+package com.example.calculation2.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Цвета для светлой темы
+val LightBackground = Color(0xFFC6C6C6)
+val LightSurface = Color(0xFFF2F2F2)
+val LightPrimaryColor = Color(0xFF575757)
+val LightSecondaryColor = Color(0xFFE1E1E1)
+val LightOnPrimaryColor = Color(0xFFFFFFFF)
+val LightOnSecondaryColor = Color(0xFF282828)
+val LightOnSurfaceColor = Color(0xFF282828)
+
+val LightEqualsColor = Color(0xFFFF9800)
+val LightEqualsShadowColor = Color(0xFFB26500)
+
+val LightGray = Color(0xFF9E9E9E)
+
+// Цвета для темной темы
+val DarkBackground = Color(0xFF333333)
+val DarkSurface = Color(0xFF212121)
+val DarkPrimaryColor = Color(0xFF323232)
+val DarkSecondaryColor = Color(0xFF535353)
+val DarkOnPrimaryColor = Color(0xFFFFFFFF)
+val DarkOnSurfaceColor = Color(0xFFFFFFFF)
